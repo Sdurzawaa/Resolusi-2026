@@ -1,0 +1,8 @@
+Belajar :
+	- React
+	- Express (Lebih Dalam)
+	- MongoDB (Lebih Dalam)
+	- Redis
+	- Belajar Link Up db to main js (Lebih Kompleks)
+	- TypeScript?
+	- Deploy?
